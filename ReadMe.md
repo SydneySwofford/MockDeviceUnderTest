@@ -40,6 +40,3 @@ Many other test methods could be added, such as:
 - Multiple actuator movements one after another.
 
 Additionally, the zipBoard class could be built out more, and more functions could be added to better interact with the newMockAccelerometer.
-
-## 6. Conclusion
-Thanks for the fun project!
